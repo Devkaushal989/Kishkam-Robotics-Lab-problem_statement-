@@ -25,9 +25,6 @@ Designed with a **robotics-inspired neon UI**, smooth animations, and clean fron
 ### ✉️ Footer
 ![Contact Screenshot](screenshots/screenshot-4.png)
 
-> 📌 **Note:**  
-> Create a folder named `screenshots/` in your project root and place your images there.
-
 ---
 
 ## ✨ Features
