@@ -133,3 +133,25 @@ Passionate about building clean, interactive web experiences 🚀
 ## 📜 License
 
 This project is open-source and free to use for learning and portfolio purposes.
+
+---
+
+## 🌐 Deployment (GitHub Pages)
+
+The project is successfully deployed using **GitHub Pages** and can be accessed publicly at the link below:
+
+🔗 **Live Website:**  
+https://devkaushal989.github.io/Kishkam-Robotics-Lab-problem_statement-/
+
+### 🚀 Deployment Details
+- Platform: **GitHub Pages**
+- Branch Used: `main`
+- Deployment Type: Static Frontend
+- No backend or server configuration required
+
+You can clone the repository and deploy it locally or on any static hosting platform (GitHub Pages, Netlify, Vercel) without additional setup.
+
+---
+
+✅ **Status:** Live & Accessible  
+🛠️ **Maintenance:** Easy to update by pushing changes to the repository
