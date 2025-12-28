@@ -4,10 +4,6 @@ A futuristic, responsive **careers and contact website** built for **KISHKAM Rob
 
 Designed with a **robotics-inspired neon UI**, smooth animations, and clean frontend architecture using **HTML, CSS, and Vanilla JavaScript**.
 
----
-
-## 🚀 Live Preview
-> *(Optional: Add your deployed link here)*  
 
 ---
 
