@@ -77,3 +77,62 @@ Designed with a **robotics-inspired neon UI**, smooth animations, and clean fron
 
 ## 📂 Project Structure
 
+📁 kishkam-robotics-lab
+│
+├── index.html # Main HTML file
+├── style.css # Complete UI styling & animations
+├── script.js # Form logic & interactivity
+├── logo.png # Website favicon/logo
+├── screenshots/ # Project screenshots
+│ ├── screenshot-1.png
+│ ├── screenshot-2.png
+│ └── screenshot-3.png
+└── README.md # Project documentation
+
+
+---
+
+## 🧠 How It Works (Quick Breakdown)
+
+- **HTML** defines sections: Header, Hero, Careers, Contact, Footer
+- **CSS** handles:
+  - Neon glow effects
+  - Keyframe animations
+  - Responsive grid layouts
+- **JavaScript**:
+  - Validates user inputs
+  - Displays error/success messages
+  - Saves form data in `localStorage`
+  - Auto-fills message when applying for roles
+
+---
+
+## ✅ Form Validation Rules
+
+- **Name**: Minimum 2 characters
+- **Email**: Valid email format (Regex-based)
+- **Message**: Minimum 10 characters
+
+---
+
+## 📌 Future Enhancements (Optional Ideas)
+
+- Backend integration (Node.js + MongoDB)
+- Email notifications on form submission
+- Admin dashboard for submissions
+- Dark/Light theme toggle
+- Accessibility improvements (ARIA)
+
+---
+
+## 👨‍💻 Author
+
+**Dev Kaushal**  
+Frontend Developer | Engineering Student  
+Passionate about building clean, interactive web experiences 🚀
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and portfolio purposes.
